@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=whatsapp" alt="Status Online"></a>
+  <a href="#"><img src="https://img.shields.io/badge/VERSÃO-4.6.0-blueviolet?style=for-the-badge&logo=github" alt="Versão 4.6.0"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LICENÇA-MIT-orange?style=for-the-badge&logo=opensourceinitiative" alt="Licença MIT"></a>
+</p>
+
+<p align="center">
 <a href="#"><img title="BOT-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-blue?&style=for-the-badge"></a>
 </p>
 
