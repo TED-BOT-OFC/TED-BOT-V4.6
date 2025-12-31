@@ -40,10 +40,5 @@ cd /storage/emulated/0/Download/TED-BOT-V4.6 && npm install --force --no-bin-lin
 ```
 npm start
 ```
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=whatsapp" alt="Status Online"></a>
-  <a href="#"><img src="https://img.shields.io/badge/VERSÃO-4.6.0-blueviolet?style=for-the-badge&logo=github" alt="Versão 4.6.0"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LICENÇA-MIT-orange?style=for-the-badge&logo=opensourceinitiative" alt="Licença MIT"></a>
-</p>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=╰•★𝐓𝐄𝐃-𝐁𝐎𝐓-𝐕𝟒.𝟔★•╯"> 
