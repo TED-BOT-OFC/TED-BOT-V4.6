@@ -1,4 +1,4 @@
-#!/bin/bash
+cd /sdcard/Download && git clone https://github.com/TED-BOT-OFC/TED-BOT-V4.cd /sdcard/Download && git clone https://github.com/TED-BOT-OFC/TED-BOT-V4.6#!/bin/bash
 # ================================
 # 🚀 BOT ZERO - Auto Restart
 # ================================
